@@ -1,0 +1,6 @@
+{
+	"modules": {
+		"mcu_function": "./function"
+	},
+	"preload": "mcu_function"
+}

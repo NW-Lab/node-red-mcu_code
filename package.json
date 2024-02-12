@@ -1,0 +1,12 @@
+{
+	"name": "node-red-mcu_code",
+	"version": "0.0.1",
+	"description": "sSomething similar to Function. No check, Mainfest included.",
+	"license": "UNLICENSED",
+	"node-red" : {
+		"nodes": {
+			"mcu_code": "mcu_code.js"
+		}
+	}
+}
+ 
